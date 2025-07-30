@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "First upload"
+git branch -M main
+git remote add origin https://github.com/goldnik2020-dot/travelgenie.git
+git push -u origin main
